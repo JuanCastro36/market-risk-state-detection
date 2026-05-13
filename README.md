@@ -53,19 +53,19 @@ The transition matrix shows that market states are persistent: the probability o
 
 ### Temporal evolution of correlation structures
 
-![Zeta Matrix](./reports/figures/zeta_matrix.png)
+![Zeta Matrix](https://github.com/JuanCastro36/market-risk-state-detection/blob/main/reports%20/figures/zeta_matrix.png)
 
 ### MDS map of market states
 
-![MDS Market States](./reports/figures/mds_market_states_k3.png)
+![MDS Market States](https://github.com/JuanCastro36/market-risk-state-detection/blob/main/reports%20/figures/mds_market_states_k3.png)
 
 ### Representative correlation matrices by state
 
-![Average Correlation Matrices](./reports/figures/average_correlation_matrix_by_state_k3.png)
+![Average Correlation Matrices](https://github.com/JuanCastro36/market-risk-state-detection/blob/main/reports%20/figures/average_correlation_matrix_by_state_k3.png)
 
 ### Transition probability matrix
 
-![Transition Matrix](./reports/figures/transition_probability_matrix_k3.png)
+![Transition Matrix](https://github.com/JuanCastro36/market-risk-state-detection/blob/main/reports%20/figures/transition_probability_matrix_k3.png)
 
 ## Technologies
 
