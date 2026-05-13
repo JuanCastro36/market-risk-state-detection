@@ -1,0 +1,2 @@
+start_date,end_date,number_of_assets,number_of_price_observations,number_of_return_observations,number_of_epochs,window_days,step_days,power_map_epsilon,number_of_market_states,most_frequent_state
+1985-01-02,2026-05-12,64,10420,10419,1040,20,10,0.6,3,S1
